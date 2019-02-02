@@ -1,7 +1,9 @@
 {
   "AdTypeTips": "default|admob|fan",
 
- 
+  "adByBanned": [
+    "com.packate.name.here.will.be.banned.ad"
+  ],
 
   "startAppEnable": "true",
   
@@ -10,7 +12,7 @@
   "homePageAdType": "admob",
 
   "homePageAppAdObject": {
-    "appId": "tba.heart.camera.heart.crown.face.camera",
+    "appId": "xox.nop.camera.heart.crown.face.camera",
     "appName": "Heart Crown Face Camera",
     "appUrl": "https://play.google.com/store/apps/details?id=tba.heart.camera.heart.crown.face.camera",
     "featureUrl": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/promotion/res/ads_cover_heart_face_camera.png",
@@ -86,7 +88,7 @@
     {
       "bannerAdMob": "ca-app-pub-3940256099942544/6300978111",
       "bannerFAN": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "homePageAdType": "fan",
+      "homePageAdType": "admob",
       "homePageAdTypeTips": "default|admob|fan|custom",
       "interstitialAdMob": "ca-app-pub-3940256099942544/1033173712",
       "interstitialFAN": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
@@ -104,11 +106,11 @@
     {
       "bannerAdMob": "ca-app-pub-3940256099942544/6300978111",
       "bannerFAN": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "homePageAdType": "fan",
+      "homePageAdType": "admob",
       "homePageAdTypeTips": "default|admob|fan|custom",
       "interstitialAdMob": "ca-app-pub-3940256099942544/1033173712",
       "interstitialFAN": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-      "mainAdType": "fan",
+      "mainAdType": "admob",
       "mainAdTypeAdTypeTips": "default|admob|fan|custom",
       "nativeAdMob": "ca-app-pub-3940256099942544/2247696110",
       "nativeFAN": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
