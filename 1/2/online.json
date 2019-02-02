@@ -2,7 +2,7 @@
   "AdTypeTips": "default|admob|fan",
 
   
-  "startAppEnable": "true",
+  "startAppEnable": "false",
   
   "mainAdType": "admob",
 
@@ -16,15 +16,15 @@
     {
 	
 	
-      "linkUrl": "play.app.goo.gl/?link=https://play.google.com/store/apps/details?id=com.ludia.dragon3",
+      "linkUrl": "market://details?id=com.ludia.dragon3",
       "photoUrl": "https://oldgame99.github.io/ico1.PNG",
-      "text": "Dragons Titan 2"
+      "text": "Dragons Titan 1"
     },{
-      "linkUrl": "play.app.goo.gl/?link=https://play.google.com/store/apps/details?id=com.ludia.dragon3",
+      "linkUrl": "market://details?id=com.ludia.dragon3",
       "photoUrl": "https://oldgame99.github.io/ico1.PNG",
       "text": "Dragons Titan 3"
     },{
-      "linkUrl": "play.app.goo.gl/?link=https://play.google.com/store/apps/details?id=com.ludia.dragon3",
+      "linkUrl": "market://details?id=com.ludia.dragon3",
       "photoUrl": "https://oldgame99.github.io/ico1.PNG",
       "text": "Dragons Titan 2"
     }
