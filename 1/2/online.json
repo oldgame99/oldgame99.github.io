@@ -61,7 +61,7 @@
   	}
   ],
 
-  "adsCollectionEnable": "false",
+  "adsCollectionEnable": "true",
   "adsCollection": [
     {
       "linkUrl": "https://goo.gl/abHMFy",
