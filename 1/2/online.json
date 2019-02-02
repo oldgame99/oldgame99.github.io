@@ -1,0 +1,88 @@
+{
+  "AdTypeTips": "default|admob|fan",
+
+  
+  "startAppEnable": "true",
+  
+  "mainAdType": "admob",
+
+  "homePageAdType": "admob",
+
+ 
+ 
+
+  "adsCollectionEnable": "true",
+  "adsCollection": [
+    {
+      "linkUrl": "https://play.google.com/store/apps/details?id=com.ludia.dragon3",
+      "photoUrl": "https://oldgame99.github.io/ico1.PNG",
+      "text": "Dragons Titan"
+    },
+    {
+      "linkUrl": "https://play.google.com/store/apps/details?id=com.ludia.dragon3",
+      "photoUrl": "https://lh3.googleusercontent.com/gyQDawrDTq9kbT5ugcvQPj8Tnh8LYGPfP6NsN0z0fUpzNDrNZYFTQMXYoE6DKNKCEms=w300",
+      "text": "Makeup Camera 5"
+    },
+    {
+      "linkUrl": "https://play.google.com/store/apps/details?id=com.ludia.dragon3",
+      "photoUrl": "https://lh3.googleusercontent.com/gyQDawrDTq9kbT5ugcvQPj8Tnh8LYGPfP6NsN0z0fUpzNDrNZYFTQMXYoE6DKNKCEms=w300",
+      "text": "Makeup Camera 4"
+    }
+  ],
+  "showAdLabel":"true",
+
+  "showEditorBanner": "1",
+  "showEditorBannerTip": "0: Hide, 1: Show Banner, 2: Show Smart Banner, other: use default",
+
+  "idAds": [
+    {
+      "bannerAdMob": "ca-app-pub-3940256099942544/6300978111",
+      "bannerFAN": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "homePageAdType": "fan",
+      "homePageAdTypeTips": "default|admob|fan|custom",
+      "interstitialAdMob": "ca-app-pub-3940256099942544/1033173712",
+      "interstitialFAN": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
+      "mainAdType": "admob",
+      "mainAdTypeAdTypeTips": "default|admob|fan|custom",
+      "nativeAdMob": "ca-app-pub-3940256099942544/2247696110",
+      "nativeFAN": "1818114414906888_1818115141573482",
+      "packageName": "pcm_this_is_test.photo.collage.master.pro",
+      "rewardedVideoAdMob": "ca-app-pub-3940256099942544/5224354917",
+      "showEditorBanner": "1",
+      "showEditorBannerTip": "0: Hide, 1: Show Banner, 2: Show Smart Banner, other: use default",
+      "unofficial": "1",
+      "unofficialTip": "0: It's normal, 1: It's unofficial"
+    },
+    {
+      "bannerAdMob": "ca-app-pub-3940256099942544/6300978111",
+      "bannerFAN": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "homePageAdType": "fan",
+      "homePageAdTypeTips": "default|admob|fan|custom",
+      "interstitialAdMob": "ca-app-pub-3940256099942544/1033173712",
+      "interstitialFAN": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
+      "mainAdType": "fan",
+      "mainAdTypeAdTypeTips": "default|admob|fan|custom",
+      "nativeAdMob": "ca-app-pub-3940256099942544/2247696110",
+      "nativeFAN": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "packageName": "pcm.photo.collage.master",
+      "showEditorBanner": "1",
+      "showEditorBannerTip": "0: Hide, 1: Show Banner, 2: Show Smart Banner, other: use default"
+    },
+    {
+      "bannerAdMob": "ca-app-pub-3940256099942544/9712490957",
+      "interstitialAdMob": "ca-app-pub-3940256099942544/6703184231",
+      "rewardedVideoAdMob": "ca-app-pub-3940256099942544/5881057159",
+      "packageName": "tba.christmas.photo.frames_and_sticker"
+    },
+    {
+      "bannerAdMob": "ca-app-pub-3940256099942544/8060228439",
+      "interstitialAdMob": "ca-app-pub-3940256099942544/8775093041",
+      "rewardedVideoAdMob": "ca-app-pub-3940256099942544/5597716623",
+      "packageName": "tba.halloween.photo.editor.scary.mask"
+    }
+  ],
+
+  "resAd": [
+    {}
+  ]
+}
