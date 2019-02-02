@@ -1,7 +1,9 @@
 {
   "AdTypeTips": "default|admob|fan",
 
- 
+  "adByBanned": [
+    "com.packate.name.here.will.be.banned.ad"
+  ],
 
   "startAppEnable": "true",
   
