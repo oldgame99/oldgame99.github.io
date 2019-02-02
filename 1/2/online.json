@@ -14,15 +14,15 @@
   "adsCollectionEnable": "true",
   "adsCollection": [
     {
-      "linkUrl": "play.google.com/store/apps/details?id=com.ludia.dragon3",
+      "linkUrl": "market://details?id=com.ludia.dragon3",
       "photoUrl": "https://oldgame99.github.io/ico1.PNG",
       "text": "Dragons Titan 2"
     },{
-      "linkUrl": "play.google.com/store/apps/details?id=com.ludia.dragon3",
+      "linkUrl": "market://details?id=com.ludia.dragon3",
       "photoUrl": "https://oldgame99.github.io/ico1.PNG",
       "text": "Dragons Titan 3"
     },{
-      "linkUrl": "play.google.com/store/apps/details?id=com.ludia.dragon3",
+      "linkUrl": "market://details?id=com.ludia.dragon3",
       "photoUrl": "https://oldgame99.github.io/ico1.PNG",
       "text": "Dragons Titan 2"
     }
