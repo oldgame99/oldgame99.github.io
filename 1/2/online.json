@@ -1,9 +1,7 @@
 {
   "AdTypeTips": "default|admob|fan",
 
-  "adByBanned": [
-    "com.packate.name.here.will.be.banned.ad"
-  ],
+ 
 
   "startAppEnable": "true",
   
@@ -119,15 +117,15 @@
       "showEditorBannerTip": "0: Hide, 1: Show Banner, 2: Show Smart Banner, other: use default"
     },
     {
-      "bannerAdMob": "ca-app-pub-8471481257064175/9712490957",
-      "interstitialAdMob": "ca-app-pub-8471481257064175/6703184231",
-      "rewardedVideoAdMob": "ca-app-pub-8471481257064175/5881057159",
+      "bannerAdMob": "ca-app-pub-3940256099942544/6300978111",
+      "interstitialAdMob": "ca-app-pub-3940256099942544/6703184231",
+      "rewardedVideoAdMob": "ca-app-pub-3940256099942544/5881057159",
       "packageName": "tba.christmas.photo.frames_and_sticker"
     },
     {
-      "bannerAdMob": "ca-app-pub-8471481257064175/8060228439",
-      "interstitialAdMob": "ca-app-pub-8471481257064175/8775093041",
-      "rewardedVideoAdMob": "ca-app-pub-8471481257064175/5597716623",
+      "bannerAdMob": "ca-app-pub-3940256099942544/6300978111",
+      "interstitialAdMob": "ca-app-pub-3940256099942544/1033173712",
+      "rewardedVideoAdMob": "ca-app-pub-3940256099942544/1033173712",
       "packageName": "tba.halloween.photo.editor.scary.mask"
     }
   ],
