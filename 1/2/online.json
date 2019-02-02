@@ -12,7 +12,7 @@
   "homePageAdType": "admob",
 
   "homePageAppAdObject": {
-    "appId": "xox.nop.camera.heart.crown.face.camera",
+    "appId": "tba.heart.camera.heart.crown.face.camera",
     "appName": "Heart Crown Face Camera",
     "appUrl": "https://play.google.com/store/apps/details?id=tba.heart.camera.heart.crown.face.camera",
     "featureUrl": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/promotion/res/ads_cover_heart_face_camera.png",
@@ -88,7 +88,7 @@
     {
       "bannerAdMob": "ca-app-pub-3940256099942544/6300978111",
       "bannerFAN": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "homePageAdType": "admob",
+      "homePageAdType": "fan",
       "homePageAdTypeTips": "default|admob|fan|custom",
       "interstitialAdMob": "ca-app-pub-3940256099942544/1033173712",
       "interstitialFAN": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
@@ -106,11 +106,11 @@
     {
       "bannerAdMob": "ca-app-pub-3940256099942544/6300978111",
       "bannerFAN": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "homePageAdType": "admob",
+      "homePageAdType": "fan",
       "homePageAdTypeTips": "default|admob|fan|custom",
       "interstitialAdMob": "ca-app-pub-3940256099942544/1033173712",
       "interstitialFAN": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-      "mainAdType": "admob",
+      "mainAdType": "fan",
       "mainAdTypeAdTypeTips": "default|admob|fan|custom",
       "nativeAdMob": "ca-app-pub-3940256099942544/2247696110",
       "nativeFAN": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
@@ -119,14 +119,14 @@
       "showEditorBannerTip": "0: Hide, 1: Show Banner, 2: Show Smart Banner, other: use default"
     },
     {
-      "bannerAdMob": "ca-app-pub-3940256099942544/6300978111",
-      "interstitialAdMob": "ca-app-pub-3940256099942544/1033173712",
+      "bannerAdMob": "ca-app-pub-8471481257064175/9712490957",
+      "interstitialAdMob": "ca-app-pub-8471481257064175/6703184231",
       "rewardedVideoAdMob": "ca-app-pub-8471481257064175/5881057159",
       "packageName": "tba.christmas.photo.frames_and_sticker"
     },
     {
-      "bannerAdMob": "ca-app-pub-3940256099942544/6300978111",
-      "interstitialAdMob": "ca-app-pub-3940256099942544/1033173712",
+      "bannerAdMob": "ca-app-pub-8471481257064175/8060228439",
+      "interstitialAdMob": "ca-app-pub-8471481257064175/8775093041",
       "rewardedVideoAdMob": "ca-app-pub-8471481257064175/5597716623",
       "packageName": "tba.halloween.photo.editor.scary.mask"
     }
