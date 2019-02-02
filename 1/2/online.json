@@ -15,18 +15,21 @@
   "adsCollection": [
     {
 	
-	
+	"linkUrl": "market://details?id=rainbow.filter.effect.app",
+      "photoUrl": "https://oldgame99.github.io/1/2/rainbow.filter.effect.app.webp",
+      "text": "Rainbow Filter"
+    },{
       "linkUrl": "market://details?id=blush.kawaii.faceapp.anime.stickers",
       "photoUrl": "https://oldgame99.github.io/1/2/blush.kawaii.faceapp.anime.stickers.webp",
       "text": "Blush: red cheeks"
     },{
-      "linkUrl": "market://details?id=rainbow.filter.effect.app",
-      "photoUrl": "https://oldgame99.github.io/1/2/rainbow.filter.effect.app.webp",
-      "text": "Rainbow Filter"
-    },{
       "linkUrl": "market://details?id=kirakira.sparkle.effects.glitter.overlay.photo",
       "photoUrl": "https://oldgame99.github.io/1/2/kirakira.sparkle.effects.glitter.overlay.photo.webp",
       "text": "Sparkle Effects"
+    },{
+      "linkUrl": "market://details?id=magic.superpowers.movies_fx.special.effects.makeup",
+      "photoUrl": "https://oldgame99.github.io/1/2/magic.superpowers.movies_fx.special.effects.makeup.webp",
+      "text": "super powers"
     }
     
   ],
