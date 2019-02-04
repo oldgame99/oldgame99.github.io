@@ -1,49 +1,83 @@
 {
   "AdTypeTips": "default|admob|fan",
 
-  
-  "startAppEnable": "false",
+  "adByBanned": [
+    "com.packate.name.here.will.be.banned.ad"
+  ],
+
+  "startAppEnable": "true",
   
   "mainAdType": "admob",
 
   "homePageAdType": "admob",
-  
-  
-  
+
+  "homePageAppAdObject": {
+    "appId": "tba.heart.camera.heart.crown.face.camera",
+    "appName": "Heart Crown Face Camera",
+    "appUrl": "https://play.google.com/store/apps/details?id=tba.heart.camera.heart.crown.face.camera",
+    "featureUrl": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/promotion/res/ads_cover_heart_face_camera.png",
+    "iconUrl": "https://lh3.googleusercontent.com/eSLWHfsEt9FN4dNqgC1D7mfqG4ftdAqHC3nClziFC3BAj9fMijjyi56WsBAzpsLM2w=s180-rw",
+    "link": "http://bit.ly/heart_face_camera",
+    "pubName": "TrendsArt",
+    "description": "Heart Crown Face Camera has given you the chance to look super kawaii.."
+  },
+
   "promotion": [
-  	
+  	{
+  		"title":"Minni Mouse Photo Editor",
+  		"subTitle":"Sponsored",
+  		"photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/promotion/res/r003MinniMousePhotoEditor.png",
+  		"key":"http://bit.ly/TrendsArtMini"
+  	},
+  	{
+  		"title":"Fire on Photo",
+  		"subTitle":"Filter",
+  		"photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/filter/Fire/cover",
+  		"key":"f004"	
+  	},
   	{
   		"title":"kawaii",
   		"subTitle":"Filter",
   		"photo":"https://oldgame99.github.io/1/2/master/res/frame/kawaii/cover",
   		"key":"f001"	
+  	},
+  	{
+  		"title":"Winter story",
+  		"subTitle":"Sticker",
+  		"photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Winter_story/cover",
+  		"key":"s011"	
+  	},
+  	{
+  		"title":"Star on Sky",
+  		"subTitle":"Filter",
+  		"photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/filter/Star/cover",
+  		"key":"f005"	
+  	},
+  	{
+  		"title":"Black art",
+  		"subTitle":"Sticker",
+  		"photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Black/cover",
+  		"key":"s010"	
   	}
   ],
 
- 
- 
-
-  "adsCollectionEnable": "true",
+  "adsCollectionEnable": "false",
   "adsCollection": [
     {
-	
-	"linkUrl": "market://details?id=rainbow.filter.effect.app",
-      "photoUrl": "https://oldgame99.github.io/1/2/rainbow.filter.effect.app.webp",
-      "text": "Rainbow Filter"
-    },{
-      "linkUrl": "market://details?id=blush.kawaii.faceapp.anime.stickers",
-      "photoUrl": "https://oldgame99.github.io/1/2/blush.kawaii.faceapp.anime.stickers.webp",
-      "text": "Blush: Red Cheeks"
-    },{
-      "linkUrl": "market://details?id=kirakira.sparkle.effects.glitter.overlay.photo",
-      "photoUrl": "https://oldgame99.github.io/1/2/kirakira.sparkle.effects.glitter.overlay.photo.webp",
-      "text": "Sparkle Effects"
-    },{
-      "linkUrl": "market://details?id=magic.superpowers.movies_fx.special.effects.makeup",
-      "photoUrl": "https://oldgame99.github.io/1/2/magic.superpowers.movies_fx.special.effects.makeup.webp",
-      "text": "Super Powers"
+      "linkUrl": "https://goo.gl/abHMFy",
+      "photoUrl": "https://lh3.googleusercontent.com/gyQDawrDTq9kbT5ugcvQPj8Tnh8LYGPfP6NsN0z0fUpzNDrNZYFTQMXYoE6DKNKCEms=w300",
+      "text": "Makeup Camera 1"
+    },
+    {
+      "linkUrl": "https://goo.gl/abHMFy",
+      "photoUrl": "https://lh3.googleusercontent.com/gyQDawrDTq9kbT5ugcvQPj8Tnh8LYGPfP6NsN0z0fUpzNDrNZYFTQMXYoE6DKNKCEms=w300",
+      "text": "Makeup Camera 2"
+    },
+    {
+      "linkUrl": "https://goo.gl/abHMFy",
+      "photoUrl": "https://lh3.googleusercontent.com/gyQDawrDTq9kbT5ugcvQPj8Tnh8LYGPfP6NsN0z0fUpzNDrNZYFTQMXYoE6DKNKCEms=w300",
+      "text": "Makeup Camera 3"
     }
-    
   ],
   "showAdLabel":"true",
 
@@ -85,15 +119,15 @@
       "showEditorBannerTip": "0: Hide, 1: Show Banner, 2: Show Smart Banner, other: use default"
     },
     {
-      "bannerAdMob": "ca-app-pub-3940256099942544/9712490957",
-      "interstitialAdMob": "ca-app-pub-3940256099942544/6703184231",
-      "rewardedVideoAdMob": "ca-app-pub-3940256099942544/5881057159",
+      "bannerAdMob": "ca-app-pub-8471481257064175/9712490957",
+      "interstitialAdMob": "ca-app-pub-8471481257064175/6703184231",
+      "rewardedVideoAdMob": "ca-app-pub-8471481257064175/5881057159",
       "packageName": "tba.christmas.photo.frames_and_sticker"
     },
     {
-      "bannerAdMob": "ca-app-pub-3940256099942544/8060228439",
-      "interstitialAdMob": "ca-app-pub-3940256099942544/8775093041",
-      "rewardedVideoAdMob": "ca-app-pub-3940256099942544/5597716623",
+      "bannerAdMob": "ca-app-pub-8471481257064175/8060228439",
+      "interstitialAdMob": "ca-app-pub-8471481257064175/8775093041",
+      "rewardedVideoAdMob": "ca-app-pub-8471481257064175/5597716623",
       "packageName": "tba.halloween.photo.editor.scary.mask"
     }
   ],
@@ -101,9 +135,194 @@
   "resAd": [
     {}
   ],
-  
-  
-   "resFrame": [
+
+ "resBackground": [
+    {}
+  ],
+
+  "resPattern": [
+    {
+      "id": "p001",
+      "name": "Artistic",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/pattern/Artistic/",
+      "price": "0",
+      "size": "8",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "p002",
+      "name": "Black_and_White",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/pattern/Black_and_White/",
+      "price": "0",
+      "size": "8",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "p003",
+      "name": "Blossom",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/pattern/Blossom/",
+      "price": "0",
+      "size": "8",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "p004",
+      "name": "Boo",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/pattern/Boo/",
+      "price": "0",
+      "size": "8",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "p005",
+      "name": "Brazil_Carnival",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/pattern/Brazil_Carnival/",
+      "price": "0",
+      "size": "8",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "p006",
+      "name": "Celebration",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/pattern/Celebration/",
+      "price": "0",
+      "size": "8",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "p007",
+      "name": "Check_Pattern",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/pattern/Check_Pattern/",
+      "price": "0",
+      "size": "8",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "p008",
+      "name": "Christmas",
+      "link": "https://oldgame99.github.io/1/2/master/res/pattern/kawaii/",
+      "price": "0",
+      "size": "8",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "p009",
+      "name": "Cool_Summer",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/pattern/Cool_Summer/",
+      "price": "0",
+      "size": "8",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "p010",
+      "name": "Cute_Animals",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/pattern/Cute_Animals/",
+      "price": "0",
+      "size": "8",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "p011",
+      "name": "Deck_the_Halls",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/pattern/Deck_the_Halls/",
+      "price": "0",
+      "size": "8",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "p012",
+      "name": "Delicious",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/pattern/Delicious/",
+      "price": "0",
+      "size": "8",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "p013",
+      "name": "Emoji",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/pattern/Emoji/",
+      "price": "0",
+      "size": "8",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "p014",
+      "name": "Fabric",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/pattern/Fabric/",
+      "price": "0",
+      "size": "8",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "p015",
+      "name": "Fashion",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/pattern/Fashion/",
+      "price": "0",
+      "size": "8",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "p016",
+      "name": "Flowers_Birds",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/pattern/Flowers_Birds/",
+      "price": "0",
+      "size": "12",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "p017",
+      "name": "Flowery",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/pattern/Flowery/",
+      "price": "0",
+      "size": "8",
+      "color": "#FFFFFF"
+    }
+  ],
+
+  "resFilter": [
+    {
+      "id": "f001",
+      "name": "Christmas",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/filter/Christmas/",
+      "price": "0",
+      "size": "8",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "f002",
+      "name": "Glitter",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/filter/Glitter/",
+      "price": "0",
+      "size": "7",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "f003",
+      "name": "Spooky",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/filter/Spooky/",
+      "price": "0",
+      "size": "9",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "f004",
+      "name": "Fire",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/filter/Fire/",
+      "price": "0",
+      "size": "14",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "f005",
+      "name": "Star",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/filter/Star/",
+      "price": "0",
+      "size": "14",
+      "color": "#FFFFFF"
+    }
+  ],
+
+  "resFrame": [
     {
       "id": "r001",
       "name": "kawaii",
@@ -111,28 +330,220 @@
       "price": "0",
       "size": "20",
       "color": "#FFFFFF"
+    },
+    {
+      "id": "r002",
+      "name": "Happy_Birthday",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/frame/Happy_Birthday/",
+      "price": "0",
+      "size": "24",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "r003",
+      "name": "Mothers_Day",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/frame/Mothers_Day/",
+      "price": "0",
+      "size": "28",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "r004",
+      "name": "Summer_vacation",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/frame/Summer_vacation/",
+      "price": "0",
+      "size": "24",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "r005",
+      "name": "Easter",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/frame/Easter/",
+      "price": "0",
+      "size": "20",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "r006",
+      "name": "Valentine_frames",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/frame/Valentine_frames/",
+      "price": "0",
+      "size": "26",
+      "color": "#FFFFFF"
+    }
+  ],
+
+  "resPoster": [
+    {}
+  ],
+
+  "resSticker": [
+    {
+      "id": "s001",
+      "name": "Travel",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Travel/",
+      "price": "0",
+      "size": "28",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "s002",
+      "name": "Chocolate",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Chocolate/",
+      "price": "0",
+      "size": "20"
+    },
+    {
+      "id": "s003",
+      "name": "Vacation",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Vacation/",
+      "price": "0",
+      "size": "20"
+    },
+    {
+      "id": "s004",
+      "name": "Winter_label",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Winter_label/",
+      "price": "0",
+      "size": "24"
+    },
+    {
+      "id": "s005",
+      "name": "Alphabet",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Alphabet/",
+      "price": "0",
+      "size": "27"
+    },
+    {
+      "id": "s006",
+      "name": "Animal_face",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Animal_face/",
+      "price": "0",
+      "size": "37"
+    },
+    {
+      "id": "s007",
+      "name": "Baby",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Baby/",
+      "price": "0",
+      "size": "50"
+    },
+    {
+      "id": "s008",
+      "name": "Beautiful_girl",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Beautiful_girl/",
+      "price": "0",
+      "size": "24"
+    },
+    {
+      "id": "s009",
+      "name": "Birthday_party",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Birthday_party/",
+      "price": "0",
+      "size": "30"
+    },
+    {
+      "id": "s010",
+      "name": "Black",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Black/",
+      "price": "0",
+      "size": "56"
+    },
+    {
+      "id": "s011",
+      "name": "Winter_story",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Winter_story/",
+      "price": "0",
+      "size": "24",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "s012",
+      "name": "Happy_new_year",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Happy_new_year/",
+      "price": "0",
+      "size": "20",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "s013",
+      "name": "Sweet_dream",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Sweet_dream/",
+      "price": "0",
+      "size": "21",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "s014",
+      "name": "Spring_time",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Spring_time/",
+      "price": "0",
+      "size": "19",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "s015",
+      "name": "Daily_deco",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Daily_deco/",
+      "price": "0",
+      "size": "36",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "s016",
+      "name": "Wedding_day",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Wedding_day/",
+      "price": "0",
+      "size": "30",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "s017",
+      "name": "Pretty_girl",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Pretty_girl/",
+      "price": "0",
+      "size": "21",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "s018",
+      "name": "Black_vintage",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Black_vintage/",
+      "price": "0",
+      "size": "21",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "s019",
+      "name": "Black_white_winter",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Black_white_winter/",
+      "price": "0",
+      "size": "40",
+      "color": "#40CAEE"
+    },
+    {
+      "id": "s020",
+      "name": "Xmas",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Xmas/",
+      "price": "0",
+      "size": "28",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "s021",
+      "name": "Valentine_day",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Valentine_day/",
+      "price": "0",
+      "size": "21",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "s022",
+      "name": "Vintage_love",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Vintage_love/",
+      "price": "0",
+      "size": "21",
+      "color": "#FFFFFF"
     }
   ]
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
 }
