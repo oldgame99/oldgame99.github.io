@@ -7,6 +7,18 @@
   "mainAdType": "admob",
 
   "homePageAdType": "admob",
+  
+  
+  
+  "promotion": [
+  	
+  	{
+  		"title":"kawaii",
+  		"subTitle":"Filter",
+  		"photo":"https://oldgame99.github.io/1/2/master/res/frame/kawaii/cover",
+  		"key":"f001"	
+  	}
+  ],
 
  
  
@@ -88,5 +100,39 @@
 
   "resAd": [
     {}
+  ],
+  
+  
+   "resFrame": [
+    {
+      "id": "r001",
+      "name": "kawaii",
+      "link": "https://oldgame99.github.io/1/2/master/res/frame/kawaii/",
+      "price": "0",
+      "size": "20",
+      "color": "#FFFFFF"
+    }
   ]
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 }
